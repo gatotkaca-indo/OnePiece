@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Composer
+/vendor/
+
+# Writable
+writable/cache/*
+writable/logs/*
+writable/session/*
+writable/uploads/*
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
